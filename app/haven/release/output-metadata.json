@@ -1,0 +1,20 @@
+{
+  "version": 3,
+  "artifactType": {
+    "type": "APK",
+    "kind": "Directory"
+  },
+  "applicationId": "com.meta.shell.env.footprint.haven2025",
+  "variantName": "havenRelease",
+  "elements": [
+    {
+      "type": "SINGLE",
+      "filters": [],
+      "attributes": [],
+      "versionCode": 1,
+      "versionName": "1.60",
+      "outputFile": "MuteHome-haven-release.apk"
+    }
+  ],
+  "elementType": "File"
+}
