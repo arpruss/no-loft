@@ -8,8 +8,8 @@ android {
         minSdkVersion 31
         //noinspection EditedTargetSdkVersion
         targetSdkVersion 34
-        versionCode 1060
-        versionName "1.60"
+        versionCode 1974700921
+        versionName "999.9.9.9.99"
     }
     buildTypes {
         release {
@@ -22,7 +22,6 @@ android {
         haven {
             dimension 'id'
             applicationId 'com.meta.shell.env.footprint.haven2025'
-            versionCode 1
         }
         calming {
             dimension 'id'
