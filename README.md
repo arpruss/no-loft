@@ -14,3 +14,7 @@ warning:
 adb uninstall com.meta.shell.env.vista.calming
 adb install app/calming/release/MuteHome-calming-release.apk
 ```
+
+Some users got modding warning popups. USE AT YOUR OWN RISK and don't blame me if you get
+banned or something. And consult a lawyer if you want to know about compatibility between
+this an the Meta EULA.
